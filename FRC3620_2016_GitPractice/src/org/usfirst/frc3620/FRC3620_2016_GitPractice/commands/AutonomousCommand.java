@@ -8,9 +8,11 @@
 // update. Deleting the comments indicating the section will prevent
 // it from being updated in the future.
 
-
+//
 package org.usfirst.frc3620.FRC3620_2016_GitPractice.commands;
-
+/*I want to die and here's why:
+ * 10 REASONS JUSTIN BEABER IS THE BEST SINGER EVER
+ * */
 import edu.wpi.first.wpilibj.command.Command;
 import org.usfirst.frc3620.FRC3620_2016_GitPractice.Robot;
 

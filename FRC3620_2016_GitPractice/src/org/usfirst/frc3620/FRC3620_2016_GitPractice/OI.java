@@ -9,7 +9,7 @@
 // it from being updated in the future.
 
 
-// Doug, the handsome, was here.
+//Doug, the okay but not that great, was here.
 // I don't think he needs a grail, We already got one.
 // 
 

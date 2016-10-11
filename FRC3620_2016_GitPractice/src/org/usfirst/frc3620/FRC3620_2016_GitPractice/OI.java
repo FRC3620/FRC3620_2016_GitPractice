@@ -9,7 +9,7 @@
 // it from being updated in the future.
 
 
-// Doug, the handsome, was here.
+// Doug, the okay but not that great, was here.
 
 
 package org.usfirst.frc3620.FRC3620_2016_GitPractice;
